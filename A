@@ -1,1 +1,4 @@
+import B
 This is A
+
+call B
